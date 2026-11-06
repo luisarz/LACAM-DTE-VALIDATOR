@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Versión 0.1.1",
-  "pub_date": "2026-11-06T18:52:36Z",
+  "version": "0.1.2",
+  "notes": "Versión 0.1.2",
+  "pub_date": "2026-11-06T20:34:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRby9WN2YwclcrUW9aRUJXbjlNRitEd3Urb1QxQ2VhZE1CL21OdnB3dVQ3RmZ3OC9nYnNQek94Ym56YXpGQ0U4Uy9sMklRaGNZNzk5Z2ROY2FOZjZNOVkya0Nvbzd2bndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTg2NzA0CWZpbGU6TEFDQU0gRFRFXzAuMS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMQpETkQyRzJocmhMdjYxaWhhTmFQK3Bha1dIb2V1cmREV1RzY2ZuMHpzUjVoQjh1OCtRT1VsQXE0QVltdXRlUy84cE1XQ0ZLelZDSjlLWDlveEhEWEdBUT09Cg==",
-      "url": "https://github.com/luisarz/LACAM-DTE-Updates/releases/download/v0.1.1/LACAM-DTE_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRby9WN2YwclcrUXFJcXk5ZlB1bTUxU2E3T3JFRnFGczJEeCs3SXZEMFVEYjRUK00zMzZPTTlvajd6aEo3VTVLVXczeGVtVmpRVTEra004NFozMjB2UFQwM2F3V0RNWmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk3MTM0CWZpbGU6TEFDQU0gRFRFXzAuMS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMgoxYnd3QUYzYUxLcHdTZXZmUEZ3STRqZUNULytNVUNsc1dvS1hicGROekw3U0tvYmJDWC8vQkg2di91M2U4SXlLYU9ac1NSaFJrREhCdHg3SkNxNUhEUT09Cg==",
+      "url": "https://github.com/luisarz/LACAM-DTE-VALIDATOR/releases/download/v0.1.2/LACAM-DTE_0.1.2_x64-setup.exe"
     }
   }
 }
